@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    height: 100px;
+    color: aqua;
+    background-color: rgb(70, 44, 163);
+}
+.manu{
+    height: 100px;
+    color: green;
+    background-color: indigo;
+}
